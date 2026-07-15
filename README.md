@@ -127,7 +127,7 @@ On success you will see console output like:
 
 ## Output: sql_exercise_outputs.xlsx
 
-The workbook contains **15 sheets** — one per exercise plus a **Summary** sheet
+The workbook contains **14 sheets** — one per exercise plus a **Summary** sheet
 inserted at the front.
 
 | Sheet | Content |
